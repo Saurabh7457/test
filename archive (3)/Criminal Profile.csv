@@ -1,0 +1,1001 @@
+ssl_score,age_curr,idoc_res_zip_code,sex_code_cd,race_code_cd,majority_dist,latest_dist_res
+306,20-30,De-identified,M,WWH,De-identified,31
+352,20-30,De-identified,M,BLK,6,31
+349,20-30,De-identified,M,BLK,De-identified,31
+344,20-30,De-identified,M,WHI,De-identified,31
+343,20-30,De-identified,M,BLK,De-identified,31
+342,20-30,De-identified,F,BLK,De-identified,5
+334,20-30,De-identified,M,BLK,De-identified,31
+306,20-30,De-identified,M,WWH,De-identified,31
+333,20-30,De-identified,F,BLK,De-identified,31
+331,20-30,De-identified,M,WWH,De-identified,31
+330,20-30,De-identified,M,BLK,De-identified,31
+306,20-30,De-identified,M,WHI,De-identified,31
+327,20-30,De-identified,F,WHI,De-identified,31
+327,20-30,De-identified,M,WHI,De-identified,31
+326,20-30,De-identified,M,WWH,De-identified,31
+325,20-30,De-identified,F,BLK,De-identified,31
+325,20-30,De-identified,M,WWH,De-identified,31
+324,20-30,De-identified,F,BLK,De-identified,31
+323,20-30,De-identified,M,WHI,De-identified,31
+322,20-30,De-identified,F,WWH,De-identified,31
+321,20-30,De-identified,M,BLK,De-identified,31
+320,20-30,De-identified,M,WWH,De-identified,31
+317,20-30,De-identified,F,BLK,De-identified,31
+316,20-30,De-identified,M,BLK,De-identified,31
+313,20-30,De-identified,M,BLK,De-identified,31
+305,20-30,De-identified,F,WHI,De-identified,31
+311,20-30,De-identified,F,WHI,De-identified,31
+305,20-30,De-identified,F,WHI,De-identified,31
+310,20-30,De-identified,M,WHI,De-identified,31
+310,20-30,De-identified,F,BLK,De-identified,31
+310,20-30,De-identified,M,API,De-identified,31
+305,20-30,De-identified,F,WHI,De-identified,31
+310,20-30,De-identified,M,WWH,12,31
+309,20-30,De-identified,M,WWH,De-identified,31
+309,20-30,De-identified,F,WWH,De-identified,31
+305,20-30,De-identified,F,WHI,De-identified,31
+307,20-30,De-identified,F,U,De-identified,31
+306,20-30,De-identified,M,WWH,De-identified,31
+294,30-40,De-identified,F,WHI,De-identified,31
+302,20-30,De-identified,F,WWH,De-identified,31
+301,20-30,De-identified,M,WWH,De-identified,25
+299,20-30,De-identified,F,WWH,De-identified,31
+299,20-30,De-identified,M,BLK,De-identified,31
+298,20-30,De-identified,M,WWH,De-identified,31
+294,30-40,De-identified,M,BLK,De-identified,25
+296,20-30,De-identified,M,WWH,De-identified,31
+294,30-40,De-identified,M,WHI,De-identified,31
+294,30-40,De-identified,M,WHI,De-identified,31
+294,20-30,De-identified,M,WWH,De-identified,31
+294,30-40,De-identified,F,WHI,De-identified,31
+294,30-40,De-identified,M,WWH,De-identified,31
+290,20-30,De-identified,F,BLK,De-identified,31
+288,30-40,De-identified,M,WHI,De-identified,10
+288,20-30,De-identified,F,WHI,De-identified,31
+286,30-40,De-identified,M,WWH,De-identified,20
+286,30-40,De-identified,M,WHI,De-identified,31
+284,30-40,De-identified,M,BLK,3,31
+283,30-40,De-identified,M,WWH,De-identified,31
+283,30-40,De-identified,F,WWH,De-identified,31
+283,30-40,De-identified,M,BLK,De-identified,31
+283,30-40,De-identified,M,BLK,De-identified,31
+282,30-40,De-identified,F,BLK,De-identified,31
+281,30-40,De-identified,M,WHI,De-identified,31
+276,30-40,De-identified,M,WHI,De-identified,31
+281,30-40,De-identified,F,WWH,De-identified,31
+280,30-40,De-identified,M,WHI,De-identified,24
+278,30-40,De-identified,M,WWH,De-identified,31
+278,30-40,De-identified,M,BLK,15,11
+277,30-40,De-identified,M,WWH,De-identified,31
+277,30-40,De-identified,M,WHI,De-identified,31
+275,30-40,De-identified,M,WWH,De-identified,31
+275,30-40,De-identified,M,WHI,De-identified,31
+274,30-40,De-identified,F,BLK,De-identified,31
+273,30-40,De-identified,M,WHI,8,31
+272,30-40,De-identified,M,BLK,De-identified,31
+272,30-40,De-identified,F,BLK,De-identified,31
+272,30-40,De-identified,M,WWH,De-identified,8
+271,30-40,De-identified,F,BLK,De-identified,31
+270,30-40,De-identified,M,WHI,16,31
+270,30-40,De-identified,M,WHI,De-identified,31
+266,30-40,De-identified,F,WHI,De-identified,31
+268,30-40,De-identified,M,BLK,4,31
+267,30-40,De-identified,F,BLK,4,31
+256,40-50,De-identified,M,BLK,De-identified,31
+252,30-40,De-identified,F,WHI,De-identified,31
+211,40-50,De-identified,M,WHI,De-identified,31
+245,40-50,De-identified,M,WHI,De-identified,31
+211,40-50,De-identified,F,BLK,De-identified,31
+241,40-50,De-identified,F,WHI,De-identified,31
+239,40-50,De-identified,F,BLK,De-identified,31
+238,40-50,De-identified,M,WWH,De-identified,31
+207,50-60,De-identified,F,WWH,De-identified,31
+234,40-50,De-identified,M,BLK,De-identified,31
+231,40-50,De-identified,M,WWH,De-identified,8
+226,40-50,De-identified,M,BLK,De-identified,31
+224,40-50,De-identified,M,WWH,De-identified,31
+219,40-50,De-identified,M,WWH,31,17
+219,40-50,De-identified,M,BLK,De-identified,31
+215,40-50,De-identified,M,WWH,11,8
+188,50-60,De-identified,M,BLK,De-identified,7
+207,40-50,De-identified,M,WHI,De-identified,31
+207,50-60,De-identified,F,WHI,De-identified,31
+181,50-60,De-identified,F,BLK,De-identified,31
+197,50-60,De-identified,M,WHI,De-identified,31
+194,50-60,De-identified,F,BLK,De-identified,31
+193,50-60,De-identified,M,BLK,De-identified,31
+192,50-60,De-identified,M,WWH,De-identified,31
+187,50-60,De-identified,M,WHI,De-identified,31
+178,50-60,De-identified,F,BLK,31,7
+171,50-60,De-identified,M,WHI,De-identified,31
+168,50-60,De-identified,F,BLK,De-identified,31
+161,50-60,De-identified,M,BLK,De-identified,31
+161,60-70,De-identified,M,WHI,De-identified,31
+285,30-40,De-identified,M,WWH,De-identified,10
+314,20-30,De-identified,M,WHI,De-identified,31
+378,20-30,De-identified,M,BLK,De-identified,3
+363,less than 20,De-identified,M,WWH,De-identified,31
+365,20-30,De-identified,M,BLK,De-identified,31
+393,less than 20,De-identified,M,BLK,5,9
+393,less than 20,De-identified,M,WWH,25,31
+372,30-40,De-identified,M,WWH,De-identified,8
+362,20-30,De-identified,M,WWH,De-identified,31
+395,20-30,De-identified,F,BLK,11,4
+362,less than 20,De-identified,M,BLK,De-identified,31
+385,20-30,De-identified,M,BLK,11,15
+368,20-30,De-identified,M,BLK,5,31
+415,20-30,De-identified,M,BLK,5,5
+361,20-30,60608,M,BLK,2,31
+366,less than 20,De-identified,M,BLK,De-identified,31
+370,less than 20,De-identified,M,BLK,De-identified,31
+375,less than 20,De-identified,F,BLK,De-identified,31
+367,less than 20,De-identified,M,BLK,De-identified,31
+381,20-30,De-identified,M,BLK,4,4
+377,20-30,De-identified,F,BLK,17,31
+411,less than 20,De-identified,F,BLK,5,31
+372,less than 20,De-identified,F,WHI,De-identified,31
+368,less than 20,De-identified,M,BLK,De-identified,31
+360,less than 20,De-identified,M,WWH,De-identified,31
+361,less than 20,De-identified,F,BLK,De-identified,3
+366,less than 20,De-identified,M,WHI,De-identified,31
+367,20-30,De-identified,M,BLK,3,31
+363,less than 20,De-identified,M,BLK,De-identified,31
+375,less than 20,De-identified,M,BLK,5,5
+388,less than 20,De-identified,M,BLK,De-identified,31
+365,less than 20,De-identified,M,BLK,De-identified,31
+374,less than 20,De-identified,M,BLK,De-identified,31
+370,less than 20,De-identified,M,BLK,De-identified,31
+361,less than 20,De-identified,M,WWH,20,31
+374,20-30,60625,M,WWH,17,31
+372,20-30,De-identified,M,WWH,4,31
+389,less than 20,De-identified,M,WHI,De-identified,31
+371,less than 20,De-identified,M,WWH,De-identified,31
+385,20-30,De-identified,M,WHI,De-identified,31
+378,less than 20,De-identified,F,BLK,De-identified,5
+372,20-30,De-identified,F,WWH,19,31
+370,20-30,De-identified,M,WHI,8,8
+369,less than 20,De-identified,M,BLK,De-identified,31
+363,less than 20,De-identified,M,BLK,De-identified,31
+366,less than 20,De-identified,F,BLK,De-identified,15
+364,less than 20,De-identified,M,WWH,De-identified,31
+373,less than 20,De-identified,M,BLK,De-identified,31
+362,20-30,60637,M,BLK,3,31
+364,less than 20,De-identified,M,WWH,De-identified,31
+414,less than 20,De-identified,M,WWH,De-identified,17
+383,less than 20,De-identified,M,BLK,De-identified,31
+387,less than 20,De-identified,M,BLK,6,31
+374,less than 20,De-identified,F,BLK,De-identified,31
+376,less than 20,De-identified,M,WHI,8,31
+385,less than 20,De-identified,M,BLK,De-identified,31
+364,less than 20,De-identified,M,BLK,6,8
+407,less than 20,De-identified,M,WWH,8,8
+380,20-30,De-identified,F,WHI,2,31
+427,20-30,De-identified,M,BLK,15,15
+362,20-30,60640,M,WWH,25,9
+366,less than 20,De-identified,M,BLK,De-identified,31
+361,less than 20,De-identified,M,BLK,De-identified,31
+370,less than 20,De-identified,M,BLK,De-identified,31
+362,20-30,De-identified,M,BLK,De-identified,31
+368,20-30,De-identified,M,WWH,17,25
+367,less than 20,De-identified,M,WHI,De-identified,31
+372,less than 20,De-identified,M,BLK,De-identified,31
+362,less than 20,De-identified,M,BLK,De-identified,31
+370,20-30,De-identified,M,BLK,1,3
+369,less than 20,De-identified,M,BLK,De-identified,31
+392,less than 20,De-identified,F,WWH,31,31
+373,less than 20,De-identified,M,BLK,De-identified,31
+367,less than 20,De-identified,F,WHI,De-identified,31
+385,20-30,60651,M,BLK,15,15
+372,less than 20,De-identified,M,BLK,De-identified,31
+379,less than 20,De-identified,M,BLK,De-identified,31
+401,less than 20,De-identified,M,BLK,De-identified,31
+365,less than 20,De-identified,M,WWH,De-identified,31
+364,less than 20,De-identified,M,WWH,De-identified,31
+367,less than 20,De-identified,M,BLK,De-identified,31
+447,less than 20,De-identified,M,BLK,2,15
+370,less than 20,De-identified,M,WWH,De-identified,31
+362,less than 20,De-identified,M,BLK,De-identified,31
+360,20-30,De-identified,M,BLK,5,31
+410,less than 20,De-identified,M,BLK,De-identified,31
+370,20-30,De-identified,F,BLK,3,31
+362,less than 20,De-identified,M,WWH,De-identified,31
+375,20-30,De-identified,M,BLK,6,31
+391,less than 20,De-identified,M,BLK,De-identified,31
+361,less than 20,De-identified,F,BLK,De-identified,31
+405,less than 20,De-identified,M,BLK,5,31
+366,less than 20,De-identified,M,WHI,De-identified,31
+376,20-30,De-identified,M,BLK,7,5
+365,less than 20,De-identified,M,WHI,9,31
+361,less than 20,De-identified,M,BLK,De-identified,31
+407,20-30,De-identified,M,BLK,15,15
+370,20-30,De-identified,M,BLK,7,31
+379,20-30,De-identified,M,BLK,4,31
+382,less than 20,De-identified,F,BLK,6,6
+428,less than 20,De-identified,M,BLK,7,31
+363,less than 20,De-identified,F,WWH,De-identified,31
+362,20-30,De-identified,F,BLK,11,15
+363,20-30,De-identified,M,WWH,24,31
+371,20-30,De-identified,M,BLK,15,31
+365,less than 20,De-identified,F,WWH,De-identified,31
+375,20-30,De-identified,M,BLK,7,31
+362,less than 20,De-identified,M,BLK,De-identified,31
+381,less than 20,De-identified,M,BLK,4,31
+365,less than 20,De-identified,F,BLK,De-identified,31
+375,less than 20,De-identified,M,BLK,De-identified,31
+378,less than 20,De-identified,M,BLK,De-identified,31
+360,20-30,De-identified,F,BLK,7,31
+361,20-30,De-identified,M,WWH,10,31
+394,20-30,De-identified,M,BLK,18,31
+380,20-30,De-identified,M,WHI,De-identified,31
+400,less than 20,De-identified,M,BLK,De-identified,31
+365,20-30,De-identified,F,WWH,De-identified,31
+370,20-30,De-identified,F,BLK,5,31
+370,less than 20,De-identified,M,WWH,De-identified,31
+361,less than 20,De-identified,F,BLK,De-identified,31
+362,less than 20,De-identified,M,BLK,7,7
+379,20-30,De-identified,M,BLK,De-identified,31
+366,less than 20,De-identified,M,WWH,De-identified,31
+364,20-30,De-identified,M,BLK,5,31
+396,less than 20,De-identified,M,WWH,25,15
+363,less than 20,De-identified,M,BLK,De-identified,31
+313,20-30,De-identified,F,WHI,De-identified,31
+393,less than 20,De-identified,M,BLK,De-identified,5
+365,less than 20,De-identified,M,WHI,De-identified,31
+349,20-30,De-identified,M,WWH,De-identified,31
+373,less than 20,De-identified,M,BLK,De-identified,31
+365,less than 20,De-identified,M,BLK,31,31
+362,less than 20,De-identified,M,BLK,De-identified,5
+362,less than 20,De-identified,M,BLK,22,31
+386,less than 20,De-identified,M,WWH,De-identified,31
+361,20-30,De-identified,M,BLK,6,31
+361,less than 20,De-identified,M,WHI,De-identified,31
+361,less than 20,De-identified,F,BLK,De-identified,31
+361,less than 20,De-identified,M,BLK,De-identified,31
+397,20-30,De-identified,M,WWH,25,16
+366,less than 20,De-identified,M,WHI,9,31
+368,less than 20,De-identified,M,WHI,De-identified,31
+363,less than 20,De-identified,M,WWH,De-identified,31
+366,less than 20,De-identified,F,BLK,De-identified,31
+361,less than 20,De-identified,M,WHI,De-identified,31
+379,20-30,De-identified,F,BLK,11,11
+391,20-30,De-identified,M,BLK,15,15
+378,less than 20,De-identified,M,BLK,De-identified,25
+378,less than 20,De-identified,M,BLK,6,6
+372,20-30,De-identified,M,BLK,3,2
+388,20-30,De-identified,M,BLK,De-identified,31
+361,less than 20,De-identified,M,BLK,De-identified,31
+361,less than 20,De-identified,M,BLK,De-identified,31
+370,less than 20,De-identified,M,WWH,De-identified,31
+365,less than 20,De-identified,M,BLK,15,31
+378,20-30,De-identified,M,BLK,De-identified,31
+388,less than 20,De-identified,M,WWH,De-identified,31
+371,less than 20,De-identified,M,WWH,De-identified,31
+367,less than 20,De-identified,M,WWH,De-identified,31
+445,less than 20,De-identified,M,BLK,15,31
+405,20-30,De-identified,M,WHI,6,7
+369,less than 20,De-identified,F,WHI,De-identified,31
+365,less than 20,De-identified,M,BLK,De-identified,31
+392,less than 20,De-identified,M,BLK,De-identified,31
+374,less than 20,De-identified,M,WWH,De-identified,31
+361,less than 20,De-identified,M,WHI,De-identified,31
+363,less than 20,De-identified,M,WHI,De-identified,31
+413,20-30,De-identified,M,BLK,2,31
+382,20-30,De-identified,M,WWH,8,8
+364,20-30,De-identified,M,WWH,4,31
+363,less than 20,De-identified,F,BLK,De-identified,31
+379,less than 20,De-identified,M,WWH,De-identified,31
+380,less than 20,De-identified,F,BLK,De-identified,31
+361,less than 20,De-identified,M,WHI,De-identified,31
+387,20-30,De-identified,F,BLK,25,11
+372,20-30,De-identified,M,BLK,1,31
+361,less than 20,De-identified,M,BLK,5,31
+370,less than 20,De-identified,F,BLK,De-identified,31
+367,less than 20,De-identified,M,WWH,De-identified,31
+353,20-30,De-identified,M,BLK,24,4
+353,less than 20,De-identified,M,WWH,De-identified,31
+354,20-30,De-identified,M,WHI,De-identified,31
+357,20-30,De-identified,M,BLK,De-identified,31
+351,20-30,De-identified,M,WWH,De-identified,31
+355,20-30,De-identified,M,BLK,5,31
+350,less than 20,De-identified,M,WWH,De-identified,31
+358,20-30,De-identified,M,WWH,De-identified,8
+357,less than 20,De-identified,M,WWH,8,31
+355,less than 20,De-identified,M,BLK,De-identified,31
+358,20-30,De-identified,F,WWH,De-identified,16
+351,less than 20,De-identified,M,BLK,De-identified,31
+353,less than 20,De-identified,M,BLK,De-identified,31
+356,20-30,De-identified,M,BLK,De-identified,31
+353,less than 20,De-identified,M,BLK,De-identified,31
+354,20-30,De-identified,M,BLK,De-identified,4
+350,20-30,De-identified,M,WWH,10,31
+351,less than 20,De-identified,M,BLK,3,31
+358,less than 20,De-identified,M,WWH,De-identified,31
+353,20-30,De-identified,F,WHI,De-identified,31
+351,less than 20,De-identified,M,BLK,De-identified,2
+351,20-30,De-identified,M,BLK,De-identified,31
+351,less than 20,De-identified,M,WHI,De-identified,31
+355,less than 20,De-identified,M,BLK,4,31
+356,20-30,De-identified,F,BLK,De-identified,31
+353,less than 20,De-identified,M,BLK,De-identified,31
+358,less than 20,De-identified,M,BLK,De-identified,31
+351,20-30,De-identified,M,WWH,De-identified,31
+359,less than 20,De-identified,M,BLK,De-identified,8
+351,less than 20,De-identified,M,BLK,De-identified,31
+356,less than 20,De-identified,F,BLK,1,11
+360,less than 20,De-identified,M,BLK,17,31
+355,20-30,De-identified,M,BLK,De-identified,31
+352,20-30,De-identified,M,WHI,De-identified,31
+357,less than 20,De-identified,M,BLK,De-identified,31
+358,less than 20,De-identified,M,BLK,De-identified,31
+357,less than 20,De-identified,M,BLK,De-identified,31
+353,less than 20,De-identified,M,BLK,De-identified,31
+357,less than 20,De-identified,F,WWH,De-identified,31
+351,less than 20,De-identified,M,BLK,De-identified,31
+353,less than 20,De-identified,F,WHI,De-identified,31
+360,20-30,De-identified,F,BLK,22,22
+353,less than 20,De-identified,M,BLK,De-identified,31
+356,less than 20,De-identified,M,WHI,De-identified,31
+350,less than 20,De-identified,M,BLK,De-identified,31
+355,less than 20,De-identified,M,WWH,De-identified,14
+358,less than 20,De-identified,M,BLK,De-identified,31
+359,less than 20,De-identified,M,WWH,De-identified,31
+353,less than 20,De-identified,F,BLK,De-identified,22
+352,less than 20,De-identified,M,WWH,De-identified,31
+358,20-30,De-identified,M,WWH,20,20
+354,less than 20,De-identified,M,API,De-identified,31
+353,less than 20,De-identified,M,WHI,De-identified,31
+350,less than 20,De-identified,F,WHI,De-identified,31
+355,less than 20,De-identified,M,WHI,De-identified,31
+358,less than 20,De-identified,F,BLK,De-identified,31
+354,20-30,De-identified,F,BLK,15,15
+356,20-30,De-identified,M,WWH,25,31
+358,less than 20,De-identified,F,WHI,De-identified,31
+357,less than 20,De-identified,M,WWH,De-identified,31
+358,less than 20,De-identified,F,WHI,De-identified,31
+351,less than 20,De-identified,M,WHI,1,31
+353,less than 20,De-identified,F,BLK,De-identified,31
+353,less than 20,De-identified,M,WHI,1,31
+358,less than 20,De-identified,M,BLK,De-identified,31
+359,less than 20,De-identified,M,BLK,4,31
+350,less than 20,De-identified,M,BLK,6,6
+350,less than 20,De-identified,F,BLK,De-identified,31
+350,less than 20,De-identified,M,WHI,De-identified,31
+353,less than 20,De-identified,M,WWH,De-identified,31
+353,less than 20,De-identified,F,WWH,De-identified,31
+358,less than 20,De-identified,F,BLK,De-identified,31
+352,20-30,De-identified,M,WHI,16,16
+355,less than 20,De-identified,M,WHI,De-identified,31
+353,less than 20,De-identified,M,U,De-identified,31
+357,20-30,De-identified,F,BLK,De-identified,31
+352,less than 20,De-identified,M,BLK,4,31
+357,less than 20,De-identified,F,WWH,De-identified,31
+351,less than 20,De-identified,M,BLK,De-identified,31
+350,less than 20,De-identified,M,WWH,De-identified,31
+354,20-30,De-identified,M,WWH,25,31
+353,less than 20,De-identified,M,BLK,De-identified,31
+351,less than 20,De-identified,M,WWH,De-identified,31
+353,less than 20,De-identified,M,BLK,De-identified,31
+351,20-30,De-identified,F,BLK,De-identified,31
+358,less than 20,De-identified,M,BLK,De-identified,31
+355,less than 20,De-identified,F,BLK,De-identified,31
+357,less than 20,De-identified,M,WHI,De-identified,31
+311,20-30,De-identified,F,WWH,De-identified,8
+351,less than 20,De-identified,M,BLK,De-identified,31
+351,20-30,De-identified,F,BLK,6,6
+352,20-30,De-identified,M,BLK,19,31
+354,20-30,De-identified,M,BLK,De-identified,31
+357,less than 20,De-identified,M,WHI,De-identified,31
+353,less than 20,De-identified,F,WWH,De-identified,9
+353,less than 20,De-identified,M,BLK,De-identified,31
+351,less than 20,De-identified,M,BLK,De-identified,31
+353,20-30,60620,M,BLK,6,8
+354,less than 20,De-identified,M,BLK,8,31
+357,less than 20,De-identified,F,BLK,De-identified,31
+356,less than 20,De-identified,F,BLK,1,31
+354,less than 20,De-identified,M,WHI,De-identified,31
+351,less than 20,De-identified,M,WWH,De-identified,31
+350,20-30,De-identified,M,BLK,De-identified,31
+356,less than 20,De-identified,M,BLK,De-identified,31
+355,20-30,De-identified,M,BLK,De-identified,31
+353,less than 20,De-identified,M,WWH,De-identified,17
+350,less than 20,De-identified,F,BLK,De-identified,31
+358,20-30,De-identified,M,WHI,19,16
+353,less than 20,De-identified,M,WWH,De-identified,31
+358,less than 20,De-identified,M,BLK,De-identified,31
+354,less than 20,De-identified,M,BLK,De-identified,31
+357,less than 20,De-identified,M,WWH,De-identified,31
+354,less than 20,De-identified,M,WHI,De-identified,31
+357,less than 20,De-identified,M,BLK,De-identified,31
+353,less than 20,De-identified,M,WWH,De-identified,24
+357,less than 20,De-identified,M,WHI,De-identified,31
+358,less than 20,De-identified,M,WWH,De-identified,31
+360,20-30,De-identified,M,BLK,De-identified,31
+356,less than 20,De-identified,M,BLK,De-identified,31
+356,20-30,De-identified,M,BLK,De-identified,31
+355,less than 20,De-identified,M,WHI,De-identified,31
+354,less than 20,De-identified,M,BLK,De-identified,31
+354,less than 20,De-identified,M,BLK,De-identified,31
+360,less than 20,De-identified,M,WWH,31,31
+354,less than 20,De-identified,M,WHI,17,17
+350,less than 20,De-identified,M,WHI,De-identified,31
+353,less than 20,De-identified,M,WWH,De-identified,31
+357,less than 20,De-identified,M,WHI,De-identified,31
+350,less than 20,De-identified,M,WWH,De-identified,31
+350,less than 20,De-identified,F,BLK,De-identified,31
+359,less than 20,De-identified,F,BLK,De-identified,31
+351,20-30,De-identified,M,WWH,15,25
+353,less than 20,De-identified,F,WHI,De-identified,31
+351,less than 20,De-identified,M,BLK,De-identified,31
+354,less than 20,De-identified,M,WWH,De-identified,31
+351,less than 20,De-identified,F,WWH,De-identified,31
+353,less than 20,De-identified,F,WWH,De-identified,31
+354,20-30,De-identified,M,WWH,10,10
+352,less than 20,De-identified,M,BLK,8,31
+357,20-30,De-identified,M,WHI,De-identified,31
+354,less than 20,De-identified,M,WWH,De-identified,31
+357,30-40,De-identified,M,BLK,7,31
+357,less than 20,De-identified,M,BLK,De-identified,31
+354,less than 20,De-identified,M,WWH,De-identified,31
+352,less than 20,De-identified,M,BLK,De-identified,10
+356,less than 20,De-identified,M,BLK,De-identified,31
+357,20-30,De-identified,F,BLK,De-identified,31
+357,less than 20,De-identified,M,BLK,De-identified,31
+357,less than 20,De-identified,M,BLK,De-identified,31
+356,20-30,De-identified,M,WHI,De-identified,31
+358,less than 20,De-identified,F,WHI,De-identified,31
+353,20-30,De-identified,F,WHI,De-identified,31
+351,less than 20,De-identified,M,BLK,De-identified,31
+357,20-30,De-identified,F,BLK,7,31
+357,less than 20,De-identified,M,BLK,De-identified,31
+353,less than 20,De-identified,F,BLK,De-identified,31
+354,less than 20,De-identified,M,BLK,De-identified,31
+350,less than 20,De-identified,M,BLK,De-identified,2
+352,less than 20,De-identified,F,WHI,De-identified,31
+351,less than 20,De-identified,M,BLK,De-identified,31
+355,less than 20,De-identified,M,BLK,De-identified,31
+354,less than 20,De-identified,F,BLK,De-identified,31
+359,less than 20,De-identified,M,BLK,De-identified,31
+360,20-30,De-identified,M,BLK,11,31
+355,less than 20,De-identified,F,BLK,De-identified,31
+354,less than 20,De-identified,M,WWH,De-identified,31
+353,less than 20,De-identified,M,BLK,14,16
+351,20-30,De-identified,M,WHI,8,8
+354,less than 20,De-identified,M,WHI,De-identified,31
+354,20-30,De-identified,M,BLK,De-identified,31
+358,less than 20,De-identified,M,BLK,De-identified,31
+356,20-30,De-identified,F,BLK,1,6
+353,less than 20,De-identified,M,WHI,De-identified,31
+350,less than 20,De-identified,M,BLK,De-identified,31
+183,50-60,De-identified,F,WHI,1,31
+354,less than 20,De-identified,M,WHI,De-identified,31
+303,20-30,De-identified,F,WHI,25,31
+360,less than 20,De-identified,M,WWH,De-identified,31
+354,less than 20,De-identified,M,BLK,De-identified,5
+356,less than 20,De-identified,M,BLK,De-identified,31
+359,less than 20,De-identified,M,WWH,De-identified,31
+352,less than 20,De-identified,M,WWH,De-identified,31
+357,20-30,De-identified,M,WHI,16,16
+354,less than 20,De-identified,M,WWH,De-identified,31
+354,less than 20,De-identified,M,WWH,De-identified,31
+356,less than 20,De-identified,M,BLK,De-identified,31
+358,20-30,De-identified,M,BLK,25,31
+357,less than 20,De-identified,M,BLK,De-identified,31
+353,less than 20,De-identified,M,BLK,4,31
+354,less than 20,De-identified,M,WWH,De-identified,31
+356,less than 20,De-identified,M,BLK,4,22
+358,less than 20,De-identified,M,WWH,De-identified,31
+355,less than 20,De-identified,M,WHI,De-identified,31
+351,less than 20,De-identified,M,WWH,De-identified,31
+350,less than 20,De-identified,F,BLK,De-identified,31
+352,less than 20,De-identified,M,WHI,De-identified,31
+359,less than 20,De-identified,F,BLK,De-identified,10
+354,less than 20,De-identified,M,WWH,De-identified,31
+350,less than 20,De-identified,M,WHI,De-identified,31
+352,less than 20,De-identified,M,WWH,16,31
+354,less than 20,De-identified,M,BLK,19,31
+358,less than 20,De-identified,M,WWH,De-identified,31
+356,less than 20,De-identified,M,BLK,De-identified,31
+351,less than 20,De-identified,M,WWH,De-identified,31
+353,less than 20,De-identified,F,WWH,De-identified,31
+357,less than 20,De-identified,M,BLK,De-identified,31
+358,less than 20,De-identified,M,BLK,De-identified,10
+350,less than 20,De-identified,M,BLK,22,31
+354,less than 20,De-identified,F,BLK,De-identified,31
+358,less than 20,De-identified,F,BLK,De-identified,31
+355,less than 20,De-identified,F,WWH,De-identified,31
+357,less than 20,De-identified,F,BLK,De-identified,31
+353,less than 20,De-identified,F,BLK,De-identified,31
+353,less than 20,De-identified,M,WHI,De-identified,31
+353,less than 20,De-identified,M,BLK,De-identified,31
+359,less than 20,De-identified,M,WHI,De-identified,31
+359,less than 20,De-identified,F,BLK,De-identified,31
+353,20-30,De-identified,M,WHI,De-identified,31
+350,less than 20,De-identified,M,WHI,De-identified,31
+353,less than 20,De-identified,M,WWH,De-identified,31
+359,less than 20,De-identified,M,WWH,De-identified,31
+358,less than 20,De-identified,F,WHI,De-identified,31
+355,20-30,De-identified,M,BLK,De-identified,31
+356,less than 20,De-identified,M,BLK,De-identified,31
+352,less than 20,De-identified,F,WWH,De-identified,31
+354,less than 20,De-identified,F,WWH,De-identified,31
+356,20-30,De-identified,M,BLK,De-identified,31
+358,20-30,De-identified,M,WHI,9,24
+357,less than 20,De-identified,M,WWH,De-identified,31
+352,less than 20,De-identified,M,BLK,De-identified,31
+354,less than 20,De-identified,M,WWH,De-identified,31
+352,less than 20,De-identified,M,BLK,De-identified,31
+350,20-30,De-identified,M,BLK,10,31
+355,less than 20,De-identified,M,BLK,De-identified,31
+360,less than 20,De-identified,M,WHI,De-identified,31
+357,20-30,De-identified,M,BLK,De-identified,31
+353,less than 20,De-identified,M,BLK,De-identified,31
+356,less than 20,De-identified,F,WWH,8,8
+357,less than 20,De-identified,M,BLK,De-identified,31
+352,less than 20,De-identified,M,BLK,De-identified,31
+357,less than 20,De-identified,M,WWH,De-identified,31
+359,less than 20,De-identified,M,BLK,31,31
+354,less than 20,De-identified,M,WHI,De-identified,31
+351,less than 20,De-identified,M,BLK,De-identified,31
+358,20-30,De-identified,M,WHI,19,16
+356,less than 20,De-identified,M,BLK,De-identified,31
+356,20-30,De-identified,M,BLK,31,31
+353,less than 20,De-identified,F,BLK,De-identified,31
+351,less than 20,De-identified,M,BLK,De-identified,31
+353,less than 20,De-identified,M,BLK,De-identified,31
+358,20-30,De-identified,F,BLK,8,22
+355,20-30,De-identified,M,BLK,De-identified,31
+359,less than 20,De-identified,M,WWH,De-identified,31
+358,less than 20,De-identified,M,BLK,De-identified,31
+360,less than 20,De-identified,F,WWH,8,31
+356,less than 20,De-identified,M,BLK,9,15
+358,20-30,De-identified,M,BLK,5,5
+360,less than 20,De-identified,M,WWH,De-identified,31
+358,less than 20,De-identified,M,WHI,De-identified,31
+359,less than 20,De-identified,F,BLK,De-identified,31
+358,less than 20,De-identified,M,WHI,De-identified,31
+356,less than 20,De-identified,M,BLK,De-identified,31
+358,less than 20,De-identified,M,BLK,De-identified,31
+350,less than 20,De-identified,M,BLK,De-identified,31
+352,less than 20,De-identified,M,BLK,De-identified,5
+357,less than 20,De-identified,M,WHI,De-identified,31
+351,less than 20,De-identified,F,WHI,De-identified,31
+358,20-30,De-identified,M,BLK,7,31
+358,less than 20,De-identified,F,WHI,De-identified,31
+354,less than 20,De-identified,M,WHI,De-identified,31
+351,20-30,De-identified,F,WHI,16,31
+354,less than 20,De-identified,M,U,De-identified,31
+357,less than 20,De-identified,M,BLK,De-identified,31
+358,less than 20,De-identified,M,WHI,De-identified,10
+357,less than 20,De-identified,F,WHI,De-identified,31
+375,less than 20,De-identified,M,BLK,De-identified,31
+396,20-30,De-identified,M,BLK,De-identified,4
+362,less than 20,De-identified,M,BLK,De-identified,31
+364,20-30,De-identified,M,BLK,11,25
+391,less than 20,De-identified,M,WHI,De-identified,31
+374,less than 20,De-identified,M,BLK,De-identified,31
+412,20-30,De-identified,M,BLK,5,6
+370,less than 20,De-identified,M,BLK,De-identified,31
+385,20-30,De-identified,M,BLK,31,31
+370,20-30,De-identified,M,BLK,8,31
+360,20-30,De-identified,F,BLK,15,11
+384,20-30,60804,M,WHI,8,31
+312,20-30,De-identified,F,BLK,De-identified,31
+361,20-30,60624,M,BLK,15,11
+382,less than 20,De-identified,M,BLK,De-identified,31
+376,less than 20,De-identified,M,WWH,De-identified,31
+437,less than 20,De-identified,M,WWH,9,9
+361,less than 20,De-identified,M,BLK,De-identified,31
+368,20-30,60411,M,BLK,De-identified,31
+365,less than 20,De-identified,M,WHI,De-identified,31
+373,less than 20,De-identified,M,WWH,De-identified,8
+366,less than 20,De-identified,M,WWH,De-identified,31
+366,less than 20,De-identified,M,BLK,De-identified,31
+377,20-30,De-identified,M,BLK,4,31
+363,20-30,60629,M,WHI,9,9
+368,20-30,De-identified,M,WHI,9,31
+365,less than 20,De-identified,F,BLK,22,31
+362,less than 20,De-identified,M,BLK,De-identified,31
+367,20-30,De-identified,M,BLK,22,31
+382,less than 20,De-identified,M,WWH,De-identified,31
+373,less than 20,De-identified,M,BLK,7,31
+367,20-30,60419,M,BLK,10,31
+394,less than 20,De-identified,F,BLK,De-identified,31
+368,less than 20,De-identified,F,BLK,De-identified,31
+418,20-30,De-identified,M,BLK,15,31
+363,less than 20,De-identified,M,WHI,De-identified,31
+370,less than 20,De-identified,M,WWH,De-identified,31
+370,20-30,De-identified,M,WHI,10,10
+361,less than 20,De-identified,F,BLK,De-identified,31
+360,less than 20,De-identified,M,BLK,16,31
+379,less than 20,De-identified,M,BLK,De-identified,31
+360,20-30,De-identified,M,BLK,12,15
+426,less than 20,De-identified,M,BLK,De-identified,31
+311,20-30,De-identified,F,BLK,De-identified,31
+362,less than 20,De-identified,M,BLK,De-identified,31
+361,less than 20,De-identified,M,WWH,9,31
+367,less than 20,De-identified,M,BLK,De-identified,31
+362,less than 20,De-identified,F,BLK,De-identified,31
+365,less than 20,De-identified,F,BLK,De-identified,31
+362,less than 20,De-identified,F,WWH,De-identified,31
+364,20-30,60628,M,BLK,6,31
+362,less than 20,De-identified,M,BLK,31,31
+361,less than 20,De-identified,F,BLK,De-identified,31
+388,less than 20,De-identified,M,BLK,10,11
+366,less than 20,De-identified,F,U,De-identified,31
+371,20-30,60608,M,BLK,11,25
+395,20-30,De-identified,M,BLK,2,3
+365,less than 20,De-identified,M,BLK,De-identified,31
+369,20-30,De-identified,M,BLK,24,31
+377,less than 20,De-identified,M,BLK,De-identified,31
+382,less than 20,De-identified,M,WWH,25,31
+373,less than 20,De-identified,M,WHI,De-identified,31
+404,less than 20,De-identified,M,BLK,7,31
+363,less than 20,De-identified,M,WWH,De-identified,31
+376,less than 20,De-identified,M,BLK,De-identified,31
+363,less than 20,De-identified,M,WHI,De-identified,31
+368,20-30,De-identified,M,BLK,16,25
+386,less than 20,De-identified,M,BLK,De-identified,31
+363,less than 20,De-identified,M,WHI,De-identified,31
+372,less than 20,De-identified,M,BLK,De-identified,31
+374,De-identified,De-identified,M,BLK,11,31
+362,20-30,60411,M,WWH,De-identified,31
+388,less than 20,De-identified,M,WHI,8,31
+405,less than 20,De-identified,M,BLK,De-identified,31
+375,less than 20,De-identified,M,WHI,11,31
+500,20-30,60077,M,BLK,24,31
+370,less than 20,De-identified,F,BLK,1,3
+360,less than 20,De-identified,M,BLK,De-identified,31
+378,less than 20,De-identified,M,BLK,22,31
+385,less than 20,De-identified,M,BLK,5,7
+381,less than 20,De-identified,M,WHI,De-identified,31
+363,less than 20,De-identified,M,WWH,De-identified,31
+369,less than 20,De-identified,M,WWH,De-identified,31
+362,less than 20,De-identified,M,BLK,18,31
+362,20-30,De-identified,M,BLK,8,8
+429,less than 20,De-identified,F,BLK,9,31
+366,less than 20,De-identified,M,BLK,De-identified,10
+361,less than 20,De-identified,M,BLK,De-identified,31
+366,less than 20,De-identified,M,BLK,De-identified,11
+371,30-40,De-identified,M,BLK,15,15
+365,less than 20,De-identified,M,BLK,De-identified,31
+388,less than 20,De-identified,M,BLK,De-identified,31
+394,30-40,43952,M,BLK,5,31
+361,less than 20,De-identified,F,WWH,De-identified,31
+363,less than 20,De-identified,M,WWH,De-identified,31
+370,less than 20,De-identified,M,BLK,De-identified,31
+373,less than 20,De-identified,M,WWH,De-identified,31
+361,less than 20,De-identified,M,BLK,De-identified,31
+362,less than 20,De-identified,M,BLK,De-identified,31
+365,20-30,De-identified,M,BLK,14,15
+367,less than 20,De-identified,M,WHI,De-identified,31
+422,20-30,De-identified,M,BLK,25,10
+362,less than 20,De-identified,M,BLK,De-identified,31
+380,20-30,De-identified,M,BLK,4,31
+379,20-30,De-identified,F,BLK,2,31
+369,less than 20,De-identified,F,WWH,De-identified,31
+363,less than 20,De-identified,M,WHI,De-identified,31
+406,20-30,De-identified,M,WHI,9,31
+401,less than 20,De-identified,M,BLK,3,12
+361,less than 20,De-identified,M,WWH,De-identified,31
+372,less than 20,De-identified,M,WWH,De-identified,31
+366,less than 20,De-identified,M,WWH,De-identified,31
+362,less than 20,De-identified,M,BLK,De-identified,31
+367,less than 20,De-identified,M,WWH,De-identified,31
+364,less than 20,De-identified,F,WWH,7,31
+365,20-30,De-identified,M,BLK,11,31
+373,less than 20,De-identified,F,BLK,5,6
+367,less than 20,De-identified,M,WWH,De-identified,31
+367,less than 20,De-identified,M,BLK,De-identified,31
+398,20-30,De-identified,M,BLK,22,31
+366,less than 20,De-identified,M,BLK,De-identified,31
+362,20-30,De-identified,M,WHI,8,31
+361,less than 20,De-identified,F,WWH,De-identified,31
+379,less than 20,De-identified,M,WWH,De-identified,31
+372,20-30,60619,M,BLK,14,31
+366,less than 20,De-identified,M,WHI,De-identified,31
+362,less than 20,De-identified,M,BLK,De-identified,31
+500,20-30,60615,M,BLK,3,2
+365,less than 20,De-identified,F,WHI,De-identified,31
+376,less than 20,De-identified,M,BLK,6,31
+370,less than 20,De-identified,M,BLK,De-identified,31
+389,less than 20,De-identified,M,BLK,De-identified,31
+421,less than 20,De-identified,M,WWH,12,12
+362,less than 20,De-identified,M,BLK,De-identified,31
+361,less than 20,De-identified,F,BLK,De-identified,31
+404,less than 20,De-identified,M,BLK,11,11
+365,less than 20,De-identified,M,BLK,3,31
+362,less than 20,De-identified,M,WHI,De-identified,31
+371,20-30,De-identified,M,BLK,16,15
+393,less than 20,De-identified,F,BLK,11,31
+369,less than 20,De-identified,M,BLK,De-identified,31
+376,20-30,De-identified,M,BLK,De-identified,8
+389,20-30,De-identified,M,BLK,11,31
+381,less than 20,De-identified,M,BLK,De-identified,31
+386,20-30,De-identified,M,BLK,2,2
+362,20-30,De-identified,M,BLK,De-identified,31
+364,less than 20,De-identified,M,WWH,De-identified,31
+366,less than 20,De-identified,M,BLK,De-identified,31
+383,less than 20,De-identified,M,BLK,De-identified,31
+365,less than 20,De-identified,M,BLK,De-identified,31
+401,less than 20,De-identified,M,BLK,5,31
+380,20-30,De-identified,M,BLK,De-identified,8
+369,less than 20,De-identified,M,WHI,10,31
+408,less than 20,De-identified,M,BLK,7,31
+383,20-30,De-identified,M,BLK,7,31
+367,less than 20,De-identified,F,BLK,De-identified,31
+373,less than 20,De-identified,M,BLK,De-identified,31
+376,20-30,60624,M,BLK,15,15
+370,less than 20,De-identified,M,WWH,De-identified,31
+366,20-30,De-identified,F,WHI,10,8
+366,less than 20,De-identified,M,WWH,De-identified,31
+489,20-30,De-identified,M,BLK,10,14
+361,less than 20,De-identified,M,WHI,De-identified,31
+365,20-30,De-identified,M,BLK,De-identified,9
+372,less than 20,De-identified,M,WWH,De-identified,31
+364,less than 20,De-identified,M,BLK,31,4
+367,20-30,De-identified,M,BLK,17,31
+365,less than 20,De-identified,F,BLK,De-identified,31
+444,20-30,60649,M,BLK,6,3
+365,less than 20,De-identified,M,BLK,De-identified,31
+371,20-30,De-identified,M,BLK,De-identified,7
+364,20-30,60620,M,BLK,22,5
+369,less than 20,De-identified,M,BLK,De-identified,31
+385,less than 20,De-identified,M,BLK,De-identified,31
+362,less than 20,De-identified,M,BLK,De-identified,31
+385,20-30,De-identified,M,BLK,11,31
+417,less than 20,De-identified,M,BLK,5,5
+364,less than 20,De-identified,M,WWH,De-identified,31
+363,less than 20,De-identified,F,BLK,6,6
+387,less than 20,De-identified,M,WWH,De-identified,31
+361,less than 20,De-identified,M,BLK,De-identified,31
+370,20-30,60620,M,BLK,8,31
+362,20-30,De-identified,F,BLK,2,9
+378,less than 20,De-identified,F,BLK,5,5
+360,less than 20,De-identified,M,BLK,De-identified,31
+379,20-30,De-identified,M,BLK,8,8
+369,less than 20,De-identified,M,BLK,De-identified,31
+361,less than 20,De-identified,F,WHI,De-identified,31
+363,20-30,De-identified,M,BLK,8,8
+388,less than 20,De-identified,M,BLK,De-identified,31
+370,less than 20,De-identified,F,WHI,9,31
+377,20-30,60426,M,BLK,6,31
+368,20-30,De-identified,M,WWH,25,25
+361,less than 20,De-identified,M,WHI,De-identified,31
+369,20-30,De-identified,M,BLK,19,7
+380,less than 20,De-identified,M,BLK,De-identified,4
+363,less than 20,De-identified,M,BLK,De-identified,31
+362,less than 20,De-identified,M,WWH,8,31
+364,20-30,De-identified,M,WHI,De-identified,31
+368,less than 20,De-identified,M,WHI,8,31
+379,less than 20,De-identified,M,BLK,22,31
+375,20-30,De-identified,M,BLK,5,31
+365,less than 20,De-identified,F,BLK,De-identified,8
+375,less than 20,De-identified,M,WWH,De-identified,31
+391,less than 20,De-identified,M,BLK,22,31
+370,less than 20,De-identified,M,WWH,De-identified,31
+364,less than 20,De-identified,M,WWH,De-identified,31
+375,20-30,De-identified,M,BLK,7,31
+410,less than 20,De-identified,M,BLK,8,8
+363,20-30,60608,M,WHI,De-identified,31
+361,less than 20,De-identified,M,BLK,De-identified,31
+373,20-30,De-identified,M,BLK,4,22
+362,less than 20,De-identified,M,BLK,De-identified,31
+363,less than 20,De-identified,M,BLK,De-identified,31
+369,20-30,De-identified,M,WWH,8,31
+371,less than 20,De-identified,M,WHI,De-identified,31
+364,less than 20,De-identified,M,BLK,De-identified,31
+449,less than 20,De-identified,M,BLK,4,6
+361,less than 20,De-identified,M,WBH,De-identified,31
+367,less than 20,De-identified,M,BLK,De-identified,31
+366,less than 20,De-identified,F,BLK,De-identified,31
+378,30-40,De-identified,M,BLK,6,4
+367,20-30,De-identified,M,BLK,10,31
+380,less than 20,De-identified,M,BLK,De-identified,31
+362,20-30,De-identified,M,WHI,20,31
+377,less than 20,De-identified,M,WHI,De-identified,31
+391,20-30,De-identified,M,BLK,15,15
+470,20-30,60651,M,BLK,24,24
+374,less than 20,De-identified,M,BLK,De-identified,31
+376,less than 20,De-identified,M,BLK,De-identified,31
+373,less than 20,De-identified,M,BLK,10,31
+400,20-30,De-identified,M,WHI,14,31
+365,less than 20,De-identified,M,BLK,De-identified,31
+362,less than 20,De-identified,M,BLK,De-identified,31
+362,less than 20,De-identified,F,BLK,De-identified,31
+365,less than 20,De-identified,M,WWH,De-identified,31
+365,less than 20,De-identified,M,WWH,De-identified,31
+363,less than 20,De-identified,F,WWH,De-identified,31
+368,less than 20,De-identified,F,BLK,De-identified,31
+365,less than 20,De-identified,M,BLK,6,31
+399,less than 20,De-identified,M,BLK,15,31
+362,less than 20,De-identified,F,BLK,De-identified,31
+365,less than 20,De-identified,M,WHI,De-identified,31
+366,20-30,De-identified,M,WWH,9,9
+397,less than 20,De-identified,M,BLK,7,3
+361,less than 20,De-identified,F,WWH,De-identified,31
+384,less than 20,De-identified,M,BLK,15,31
+368,less than 20,De-identified,M,BLK,De-identified,31
+362,less than 20,De-identified,M,BLK,De-identified,31
+366,less than 20,De-identified,M,BLK,1,15
+362,20-30,De-identified,M,WWH,25,31
+390,less than 20,De-identified,M,BLK,15,31
+364,less than 20,De-identified,F,BLK,De-identified,31
+361,20-30,De-identified,F,BLK,De-identified,31
+454,less than 20,De-identified,M,BLK,4,31
+363,20-30,De-identified,M,WWH,8,8
+366,less than 20,De-identified,F,BLK,De-identified,31
+369,20-30,De-identified,M,BLK,4,31
+365,less than 20,De-identified,M,BLK,24,24
+370,less than 20,De-identified,M,BLK,10,10
+365,20-30,De-identified,M,BLK,18,18
+366,less than 20,De-identified,M,BLK,De-identified,31
+467,less than 20,De-identified,M,WWH,19,31
+369,less than 20,De-identified,M,BLK,1,31
+363,less than 20,De-identified,M,BLK,De-identified,31
+381,20-30,De-identified,M,BLK,2,2
+402,20-30,De-identified,M,BLK,De-identified,31
+392,less than 20,De-identified,M,BLK,18,4
+365,20-30,De-identified,F,BLK,22,5
+445,less than 20,De-identified,M,BLK,15,31
+372,20-30,De-identified,F,BLK,8,8
+367,20-30,De-identified,M,WHI,De-identified,31
+379,less than 20,De-identified,M,BLK,De-identified,15
+369,20-30,De-identified,M,WWH,De-identified,31
+483,20-30,De-identified,M,BLK,24,24
+365,less than 20,De-identified,M,BLK,6,31
+384,less than 20,De-identified,M,BLK,8,8
+364,less than 20,De-identified,F,WHI,De-identified,31
+367,less than 20,De-identified,M,BLK,De-identified,31
+362,less than 20,De-identified,M,BLK,De-identified,31
+362,20-30,De-identified,M,WWH,De-identified,10
+410,less than 20,De-identified,M,BLK,De-identified,31
+364,less than 20,De-identified,M,BLK,De-identified,31
+365,less than 20,De-identified,M,BLK,De-identified,31
+369,20-30,De-identified,F,BLK,5,31
+379,less than 20,De-identified,M,BLK,22,31
+360,20-30,De-identified,F,BLK,25,25
+378,less than 20,De-identified,F,WBH,De-identified,31
+361,less than 20,De-identified,M,WHI,De-identified,31
+393,less than 20,De-identified,M,BLK,11,31
+386,less than 20,De-identified,F,WWH,17,31
+363,less than 20,De-identified,M,WWH,De-identified,31
+424,20-30,De-identified,M,BLK,7,3
+363,less than 20,De-identified,M,WWH,12,31
+368,less than 20,De-identified,M,BLK,De-identified,31
+369,20-30,De-identified,M,BLK,De-identified,31
+361,less than 20,De-identified,F,BLK,De-identified,31
+384,less than 20,De-identified,M,WWH,De-identified,31
+368,20-30,De-identified,M,BLK,18,15
+382,less than 20,De-identified,M,WHI,De-identified,31
+377,less than 20,De-identified,F,BLK,De-identified,31
+366,less than 20,De-identified,M,WWH,De-identified,31
+311,20-30,De-identified,M,WWH,De-identified,31
+375,20-30,De-identified,M,WWH,De-identified,31
+380,less than 20,De-identified,M,BLK,De-identified,31
+379,20-30,De-identified,M,BLK,7,31
+378,less than 20,De-identified,F,BLK,De-identified,31
+420,less than 20,De-identified,M,BLK,4,31
+395,less than 20,De-identified,M,BLK,De-identified,31
+363,less than 20,De-identified,M,BLK,De-identified,31
+369,less than 20,De-identified,M,WWH,De-identified,31
+369,less than 20,De-identified,M,BLK,De-identified,31
+370,20-30,60632,M,WWH,9,9
+362,less than 20,De-identified,M,WWH,De-identified,31
+361,less than 20,De-identified,M,BLK,De-identified,31
+408,less than 20,De-identified,M,WHI,9,31
+367,less than 20,De-identified,M,WHI,De-identified,31
+372,less than 20,De-identified,M,BLK,De-identified,31
+371,less than 20,De-identified,M,BLK,De-identified,31
+374,less than 20,De-identified,F,BLK,1,31
+385,less than 20,De-identified,F,BLK,De-identified,31
+388,20-30,60608,M,BLK,5,5
+414,less than 20,De-identified,M,BLK,De-identified,31
+366,less than 20,De-identified,M,WHI,De-identified,31
+363,less than 20,De-identified,F,WWH,De-identified,31
+377,20-30,De-identified,M,BLK,4,31
+375,less than 20,De-identified,M,BLK,De-identified,31
+384,less than 20,De-identified,M,WWH,De-identified,10
+364,30-40,De-identified,M,WWH,9,31
+382,less than 20,De-identified,M,BLK,De-identified,31
+377,less than 20,De-identified,M,BLK,De-identified,31
+363,less than 20,De-identified,M,BLK,De-identified,31
+368,less than 20,De-identified,M,WHI,De-identified,31
+361,less than 20,De-identified,M,WWH,De-identified,31
+372,less than 20,De-identified,M,BLK,De-identified,31
+316,20-30,De-identified,M,BLK,De-identified,31
+409,20-30,De-identified,M,BLK,6,7
+472,less than 20,De-identified,M,BLK,24,31
+371,less than 20,De-identified,M,BLK,24,24
+369,less than 20,De-identified,F,BLK,11,9
+362,less than 20,De-identified,M,WHI,De-identified,31
+368,20-30,De-identified,M,BLK,17,31
+365,less than 20,De-identified,M,WWH,De-identified,31
+391,less than 20,De-identified,M,BLK,De-identified,31
+376,less than 20,De-identified,M,WWH,19,31
+363,less than 20,De-identified,M,BLK,De-identified,31
+366,20-30,De-identified,M,BLK,15,31
+446,less than 20,De-identified,M,WWH,25,31
+428,20-30,60406,M,WWH,31,31
+383,20-30,De-identified,M,WWH,12,16
+368,20-30,De-identified,M,BLK,7,19
+366,less than 20,De-identified,F,BLK,De-identified,31
+373,less than 20,De-identified,M,WWH,De-identified,31
+400,20-30,De-identified,M,BLK,5,5
+378,20-30,De-identified,M,BLK,De-identified,31
+364,less than 20,De-identified,M,WHI,De-identified,31
+367,less than 20,De-identified,M,BLK,De-identified,31
+376,less than 20,De-identified,M,BLK,De-identified,31
+391,less than 20,De-identified,M,BLK,De-identified,31
+371,less than 20,De-identified,F,WWH,10,10
+396,20-30,De-identified,M,BLK,3,31
+362,less than 20,De-identified,M,WWH,De-identified,31
+415,less than 20,De-identified,M,WWH,25,25
+366,less than 20,De-identified,M,BLK,De-identified,31
+405,20-30,De-identified,M,BLK,3,6
+361,less than 20,De-identified,M,BLK,De-identified,31
+362,less than 20,De-identified,F,BLK,24,24
+365,less than 20,De-identified,M,BLK,6,31
+400,less than 20,De-identified,M,BLK,3,31
+364,less than 20,De-identified,M,BLK,De-identified,31
+389,20-30,De-identified,M,BLK,19,9
+360,less than 20,De-identified,M,WWH,De-identified,31
+364,less than 20,De-identified,M,WWH,De-identified,31
+366,20-30,De-identified,M,BLK,24,31
+443,less than 20,De-identified,M,BLK,22,31
+397,20-30,60484,M,BLK,De-identified,31
+368,less than 20,De-identified,M,BLK,De-identified,31
+362,less than 20,De-identified,M,BLK,De-identified,31
+433,less than 20,De-identified,M,BLK,3,31
+363,less than 20,De-identified,M,BLK,De-identified,31
+364,less than 20,De-identified,F,BLK,De-identified,31
+371,less than 20,De-identified,M,BLK,De-identified,31
+402,less than 20,De-identified,M,BLK,De-identified,31
+363,less than 20,De-identified,M,BLK,22,7
+463,less than 20,De-identified,M,BLK,De-identified,31
+362,less than 20,De-identified,F,WHI,De-identified,31
+361,less than 20,De-identified,M,BLK,De-identified,31
+361,less than 20,De-identified,M,BLK,De-identified,31
+407,less than 20,De-identified,M,BLK,De-identified,31
+366,less than 20,De-identified,M,WHI,De-identified,31
+361,less than 20,De-identified,M,BLK,De-identified,31
+367,less than 20,De-identified,M,WWH,De-identified,31
+388,less than 20,De-identified,F,BLK,18,2
+375,less than 20,De-identified,F,BLK,4,3
+362,less than 20,De-identified,M,BLK,De-identified,31
+387,20-30,De-identified,M,BLK,25,31
+413,less than 20,De-identified,M,BLK,24,31
+367,less than 20,De-identified,M,BLK,De-identified,31
+369,less than 20,De-identified,M,BLK,De-identified,31
+379,20-30,De-identified,M,BLK,5,31
+365,less than 20,De-identified,M,BLK,De-identified,22
+360,less than 20,De-identified,M,BLK,De-identified,31
+365,less than 20,De-identified,F,BLK,De-identified,22
+362,less than 20,De-identified,F,BLK,De-identified,31
+378,less than 20,De-identified,M,WWH,De-identified,10
+362,less than 20,De-identified,M,BLK,De-identified,31
+364,20-30,60629,M,BLK,8,31
+411,less than 20,De-identified,M,BLK,De-identified,31
+367,less than 20,De-identified,M,BLK,De-identified,31
+362,less than 20,De-identified,M,WHI,De-identified,31
+383,less than 20,De-identified,M,WHI,De-identified,31
+368,20-30,De-identified,F,WHI,De-identified,31
+389,less than 20,De-identified,F,BLK,5,31
+311,20-30,De-identified,M,WWH,De-identified,31
+373,less than 20,De-identified,M,BLK,31,17
+371,20-30,60622,M,BLK,2,2
+365,less than 20,De-identified,M,WHI,De-identified,31
+397,less than 20,De-identified,M,WWH,De-identified,31
+393,20-30,De-identified,F,BLK,15,31
+367,less than 20,De-identified,M,WWH,De-identified,31
+361,less than 20,De-identified,F,BLK,3,31
+382,less than 20,De-identified,M,BLK,15,31
+368,less than 20,De-identified,M,BLK,6,6
+407,less than 20,De-identified,M,BLK,22,31
+382,less than 20,De-identified,F,WHI,De-identified,31
+403,less than 20,De-identified,M,BLK,6,31
+365,less than 20,De-identified,M,WWH,De-identified,31
+387,20-30,De-identified,M,BLK,15,31
+371,less than 20,De-identified,M,BLK,22,31
+377,less than 20,De-identified,M,BLK,De-identified,11
+363,20-30,De-identified,M,BLK,5,5
